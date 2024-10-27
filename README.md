@@ -1,7 +1,7 @@
 # pracujpl_dashboard
 Dashboard created in Power Bi with data job listing scraped from pracuj.pl
 
-I do not own Power Bi Pro License, therefore I'm uploading the files here! Feel free to play with the dashboard on your own. If you wish to see full presentation visit - [youtube](https://youtu.be/W7CTMyoOgIU). Here is short presentation. 
+I do not own Power Bi Pro License, therefore I'm uploading the files here! Feel free to play with the dashboard on your own. If you wish to see full presentation visit - [presentation](https://youtu.be/W7CTMyoOgIU). Here is short presentation. 
 
 ![First page](https://github.com/user-attachments/assets/1ec17b5a-08e5-4704-a75f-bf9b7bb55eed)
 
